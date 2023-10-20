@@ -1,5 +1,0 @@
-git常用命令
-
-git init 初始化
-git add . 修改后往暂存区推送
-git commit 提交
